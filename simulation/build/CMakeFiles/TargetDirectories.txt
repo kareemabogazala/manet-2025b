@@ -1,0 +1,3 @@
+/Users/kareemabogazala/Desktop/Projects/Android/Matrial/files-02360271-202502/simulation/build/CMakeFiles/simulation.dir
+/Users/kareemabogazala/Desktop/Projects/Android/Matrial/files-02360271-202502/simulation/build/CMakeFiles/edit_cache.dir
+/Users/kareemabogazala/Desktop/Projects/Android/Matrial/files-02360271-202502/simulation/build/CMakeFiles/rebuild_cache.dir
